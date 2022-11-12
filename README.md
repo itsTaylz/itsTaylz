@@ -1,7 +1,7 @@
 ## 👋 Welcome to my profile 
 - 💻 2nd year software engineering student
-- Portuguese
-- 🎮 Loves gaming and anime stuff 🍜
+<!-- - Portuguese
+- 🎮 Loves gaming and anime stuff 🍜 -->
 <br>
 
 [![itsTaylz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstaylz&show_icons=true&theme=tokyonight)](#)
