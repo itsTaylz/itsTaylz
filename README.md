@@ -6,7 +6,9 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstaylz&show_icons=true&theme=tokyonight)
+
+<!-- 
 **itsTaylz/itsTaylz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
