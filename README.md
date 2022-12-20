@@ -13,6 +13,8 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white)](#)
+[![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](#)
+[![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstaylz&layout=compact&theme=tokyonight)](#)
 
