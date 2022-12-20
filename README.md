@@ -14,7 +14,7 @@
 [![Assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white)](#)
 [![PL/SQL](https://img.shields.io/badge/PLSQL-CC342D?style=for-the-badge&logo=oracle&logoColor=black)](#)
-[![Oracle DB](https://img.shields.io/badge/Oracle-CC342D?style=for-the-badge&logo=Oracle&logoColor=white)](#)
+[![Oracle DB](https://img.shields.io/badge/OracleDB-CC342D?style=for-the-badge&logo=Oracle&logoColor=white)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstaylz&layout=compact&theme=tokyonight)](#)
 
