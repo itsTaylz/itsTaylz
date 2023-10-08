@@ -1,5 +1,5 @@
 ## 👋 Welcome to my profile 
-- 💻 2nd year software engineering student
+- 💻 3rd year software engineering student
 <br>
 
 [![itsTaylz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstaylz&show_icons=true&theme=tokyonight)](#)
